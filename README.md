@@ -1,10 +1,10 @@
-# 🏦 Banking Fraud Detection System
+# Banking Fraud Detection System
 
 A full-stack Banking Fraud Detection System that detects fraudulent transactions in real-time using Machine Learning, rule-based logic, and behavioral analysis.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Real-time fraud detection
 - Machine Learning model (XGBoost)
@@ -15,7 +15,7 @@ A full-stack Banking Fraud Detection System that detects fraudulent transactions
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 ### Backend
 - FastAPI
@@ -31,11 +31,11 @@ A full-stack Banking Fraud Detection System that detects fraudulent transactions
 
 ---
 
-## 📊 Dataset Setup
+##  Dataset Setup
 
 Dataset used:
 
-👉 https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
+-> https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 ### Steps:
 
@@ -46,13 +46,13 @@ Dataset used:
 backend/ml/creditcard.csv
 
 
-⚠️ Note:
+Note:
 - Dataset is NOT included in this repo due to GitHub size limits
 - You must download it manually
 
 ---
 
-## ⚙️ Backend Setup
+##  Backend Setup
 
 ```bash
 cd backend
