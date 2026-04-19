@@ -7,7 +7,7 @@ __pycache__/
 *.db
 
 *.csv
-backend/ml/
+backend/ml/creditcard.csv
 
 
 venv/
